@@ -1,5 +1,7 @@
 {
-  const createPromise = (value: string | boolean) => {
+  const createPromise = (
+    value: string | boolean
+  ): Promise<string | boolean> => {
     return new Promise<string | boolean>((resolve, reject) => {
       if (value) {
         resolve(value);
