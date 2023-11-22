@@ -1,5 +1,6 @@
 {
   // abstraction = assume something. Likes guess whole stroy based on listening or reading a theme of stroy.
+
   // we can do abstraction using 2 method. 1 -> interface    2 -> abstraction
 
   // abstraction using interface
